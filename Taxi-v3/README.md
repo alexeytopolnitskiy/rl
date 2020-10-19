@@ -1,1 +1,1 @@
-A Taxi-v3 game. Implemented using numpy and Catalyst.RL
+A Taxi-v3 game. Implemented using Q-algorithm.
